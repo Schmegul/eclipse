@@ -9,7 +9,7 @@ public class garfk extends JFrame{ //måste heta garfk eftersom det är det konstr
 	JButton b1=new JButton("Knapp1"); //lägger till knapp så att den finns att kalla på
 	JButton b2=new JButton("Knapp2"); //lägger till knapp så att den finns att kalla på
 	JLabel	l1=new JLabel("inget");	  //lägger till label så att den finns att kalla på
-	
+	//hej
 	
 	public garfk(){ //måste heta garfk eftersom det är det konstruktionen heter
 		setLayout(new FlowLayout()); //???
