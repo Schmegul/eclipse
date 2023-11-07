@@ -19,13 +19,13 @@ public class Ex1ArrayMethods {
         new Ex1ArrayMethods().program();
     }
 
-    final static Random rand = new Random();
+    //final static Random rand = new Random();
 
     void program() {
         int[] arr = {1, 2, 2, 5, 3, 2, 4, 2, 7};  // Hard coded test data
 
         // Uncomment one at a time and implement
-
+        // tester
         // Count occurrences of some element in arr
         //out.println(count(arr, 2) == 4);      // There are four 2's
         //out.println(count(arr, 7) == 1);
