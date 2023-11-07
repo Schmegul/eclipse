@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f476069-dc45-4409-9d41-09c9f03d601c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../lect/lectweek1/src/ex2ifwhile/IW1RelationLogicOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../lect/lectweek1/src/ex2ifwhile/IW1RelationLogicOps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dit012/exam/e20220112/exam/exam220112.lyx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../dit012/exam/e20220112/exam/exam220112.lyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dit012/exam/e20220112/exam/exam220112.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../../dit012/exam/e20220112/exam/exam220112.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dit012/exam/e20220112/src/solutions/Q8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../dit012/exam/e20220112/src/solutions/Q8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dit012/exam/e20220112/src/solutions/solution220112.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../dit012/exam/e20220112/src/solutions/solution220112.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1VBshuYBJC5JRKC27StHt2VIO2g" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/1w/dat044/xer/OUT/xerweek2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/exercises/Ex1BMI.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="xlect.tmp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ex9TicTacToe">
+    <configuration name="Ex7ObjectArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7ObjectArrays" />
+      <module name="xerweek1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex9TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex9TicTacToe" />
+      <module name="xerweek1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex9TicTacToe" />
+        <item itemvalue="Application.Ex7ObjectArrays" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f476069-dc45-4409-9d41-09c9f03d601c" name="Default Changelist" comment="" />
+      <created>1567658064252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567658064252</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2338" y="258" width="426" height="480" key="FileChooserDialogImpl" timestamp="1643021570295">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="627" y="302" width="426" height="480" key="FileChooserDialogImpl/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1639985920633" />
+    <state x="2338" y="258" width="426" height="480" key="FileChooserDialogImpl/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1643021570295" />
+    <state width="910" height="179" key="GridCell.Tab.0.bottom" timestamp="1643026198958">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="615" height="774" key="GridCell.Tab.0.bottom/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1636355604578" />
+    <state width="910" height="179" key="GridCell.Tab.0.bottom/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1643026198958" />
+    <state width="910" height="179" key="GridCell.Tab.0.center" timestamp="1643026198957">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="615" height="774" key="GridCell.Tab.0.center/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1636355604578" />
+    <state width="910" height="179" key="GridCell.Tab.0.center/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1643026198957" />
+    <state width="910" height="179" key="GridCell.Tab.0.left" timestamp="1643026198957">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="615" height="774" key="GridCell.Tab.0.left/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1636355604577" />
+    <state width="910" height="179" key="GridCell.Tab.0.left/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1643026198957" />
+    <state width="910" height="179" key="GridCell.Tab.0.right" timestamp="1643026198958">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="615" height="774" key="GridCell.Tab.0.right/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1636355604578" />
+    <state width="910" height="179" key="GridCell.Tab.0.right/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1643026198958" />
+    <state x="394" y="171" width="1241" height="770" key="new project wizard" timestamp="1636010000780">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="394" y="171" width="1241" height="770" key="new project wizard/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1636010000780" />
+  </component>
+</project>

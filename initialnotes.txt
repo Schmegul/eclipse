@@ -1,0 +1,104 @@
+17374	// integer literal				// int
+
+25.223	// real literal (floating point literal)	//double
+
+'z' 	// character literal				// char
+
+"egg"	// string literal				// string
+
+
+
+declaring variables
+
+int value;
+
+int age = 45;
+
+boolean b = true;
+
+String s = "egg";
+
+final int d = 2;
+
+d = 3;	// will generate an error
+
+
+
+
+overloaded +- operator
+
+"123" + "4" = "1234"
+
+"123" + 4 + 5 = "12345"
+
+1 + 2 + "345"  = "3345"
+
+
+
+int[] name;
+double[] name = {1.0, 3.3, 0.1};
+
+int[] = points1;
+points1 = new int[]{1,2,3,4,5,6};
+
+
+array.toString
+
+int[] points = {1,5,3,9,5,3}
+
+out.println(points.length);		// will be 6
+
+out.println(points[points.length-1]);	// will be 3
+
+
+for ( int i = 0; i == 6; i++) {
+	// do something
+}
+
+
+
+for ( int i = 0; i < arr.length; i++ ) {
+	out.print(arr[i]);	// 123456
+} 
+
+for ( int i = arr.length - 1 ;; i-- ) {
+	out.print(arr[i]);
+}
+
+
+
+String[] names = new String[3]	// string array with length 3
+
+
+
+
+cant delete items from arrays, will have to create new array and copy over wanted items into the new array
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

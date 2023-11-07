@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Lösningar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/xerweek4.zip!/" />
+      <root url="jar://$PROJECT_DIR$/xerweek3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/xerweek1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/xerweek2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/asteroids.zip!/" />
+      <root url="jar://$PROJECT_DIR$/xerweek5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hangman.zip!/" />
+      <root url="jar://$PROJECT_DIR$/xerweek6.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
