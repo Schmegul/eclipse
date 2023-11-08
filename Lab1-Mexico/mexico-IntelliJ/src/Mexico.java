@@ -49,9 +49,9 @@ public class Mexico {
 
 			} else if ("n".equals(cmd)) {
 				// Process
-				if (next(players,current) < 3) {
+//				if (next(players,current) ) {
 					current = next(players,current);
-				}
+//				}
 			} else {
 				out.println("?");
 			}
@@ -82,8 +82,22 @@ public class Mexico {
 		return -1;
 	}
 
+	Player[] removeLoser(Player[] players){
+		Player[] plrs = new Player[players.length-1];
+		int counter = 0;
+
+		for(int i = 0; i < players.length; i++){
+			if(players[i].amount != 0){
+				plrs[counter] = players[i];
+				counter++;
+
+			}
+		}
+		return plrs;
+	}
+
 	Player next (Player[] players, Player current) {
-		return (players[indexOf(players, current)+1]);
+		return (players[(indexOf(players, current)+1%3)]);
 	}
 	void roll (Player current) {
 		int d1 = rand.nextInt(1,7);

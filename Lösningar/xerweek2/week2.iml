@@ -7,7 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="JavaFX-13" level="application" />
-    <orderEntry type="library" name="JavaFX-15" level="application" />
+    <orderEntry type="library" name="org.apache.xmlrpc:xmlrpc-server:3.0" level="project" />
+    <orderEntry type="library" name="org.apache.xmlrpc:xmlrpc-client:3.0" level="project" />
   </component>
 </module>

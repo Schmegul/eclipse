@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76b90f85-bda8-4cde-a5d7-7f99c3bc48ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Ex4GameOfLife.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex4GameOfLife.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1V6GhlO2Kp6bOV3dEUjvEeQv35u" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../OUT/xerweek2" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15039062" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ex4GameOfLife">
+    <configuration name="Ex3Theory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3Theory" />
+      <module name="xerweek2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex4GameOfLife" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4GameOfLife" />
+      <module name="xerweek2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex4GameOfLife" />
+        <item itemvalue="Application.Ex3Theory" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76b90f85-bda8-4cde-a5d7-7f99c3bc48ed" name="Default Changelist" comment="" />
+      <created>1573716704677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573716704677</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2186" y="163" width="802" height="673" key="#Project_Structure" timestamp="1643632896841">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2186" y="163" width="802" height="673" key="#Project_Structure/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1643632896841" />
+    <state x="2049" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643632830627">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2049" y="159" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1643632830627" />
+    <state x="2359" y="288" width="319" height="410" key="FileChooserDialogImpl" timestamp="1643612654116">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="658" y="337" width="426" height="480" key="FileChooserDialogImpl/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1639986208079" />
+    <state x="2359" y="288" width="319" height="410" key="FileChooserDialogImpl/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1643612654116" />
+    <state width="1084" height="49" key="GridCell.Tab.0.bottom" timestamp="1643632913017">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1239" height="49" key="GridCell.Tab.0.bottom/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1643627193927" />
+    <state width="1084" height="49" key="GridCell.Tab.0.bottom/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1643632913017" />
+    <state width="1084" height="49" key="GridCell.Tab.0.center" timestamp="1643632913017">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1239" height="49" key="GridCell.Tab.0.center/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1643627193927" />
+    <state width="1084" height="49" key="GridCell.Tab.0.center/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1643632913017" />
+    <state width="1084" height="49" key="GridCell.Tab.0.left" timestamp="1643632913017">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1239" height="49" key="GridCell.Tab.0.left/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1643627193926" />
+    <state width="1084" height="49" key="GridCell.Tab.0.left/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1643632913017" />
+    <state width="1084" height="49" key="GridCell.Tab.0.right" timestamp="1643632913017">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1239" height="49" key="GridCell.Tab.0.right/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1643627193927" />
+    <state width="1084" height="49" key="GridCell.Tab.0.right/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1643632913017" />
+    <state x="2074" y="79" width="1026" height="841" key="SettingsEditor" timestamp="1643632822105">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="2074" y="79" width="1026" height="841" key="SettingsEditor/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1643632822105" />
+  </component>
+</project>
