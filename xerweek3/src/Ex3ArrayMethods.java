@@ -1,3 +1,5 @@
+package xerweek3.src;
+
 import java.util.Arrays;
 
 import static java.lang.System.*;

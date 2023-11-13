@@ -1,4 +1,4 @@
-package xerweek1.src;
+package Losningar.xerweek1.src;
 
 import java.util.Scanner;
 

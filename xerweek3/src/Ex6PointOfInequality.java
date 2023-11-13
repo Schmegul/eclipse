@@ -1,3 +1,5 @@
+package xerweek3.src;
+
 import static java.lang.Math.abs;
 import static java.lang.System.out;
 
