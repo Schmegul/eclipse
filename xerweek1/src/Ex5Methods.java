@@ -1,3 +1,5 @@
+package xerweek1.src;
+
 import static java.lang.System.out;
 
 /*

@@ -1,3 +1,5 @@
+package xerweek2.src;
+
 import static java.lang.System.*;
 /*
  *  For each of the section below. Uncomment and explain

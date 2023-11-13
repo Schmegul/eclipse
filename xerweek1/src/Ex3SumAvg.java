@@ -1,3 +1,5 @@
+package xerweek1.src;
+
 import java.util.Scanner;
 
 import static java.lang.System.*;;

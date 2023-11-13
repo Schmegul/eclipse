@@ -1,3 +1,5 @@
+package xerweek2.src;
+
 import java.util.Arrays;
 
 import static java.lang.StrictMath.round;
@@ -24,31 +26,30 @@ public class Ex2MatrixMethods {
                 {9, -2, -6, 8},
                 {0, 0, 5, -6}
         };
-
         // TODO uncomment one at a time and implement
 
         // Return array with all negatives in m
-        //int[] negs = getNegatives(m);
-        //out.println(negs.length == 6);
-        //out.println(Arrays.toString(negs).equals("[-1, -5, -2, -2, -6, -6]")); // Possibly other ordering!
+        int[] negs = getNegatives(m);
+        out.println(negs.length == 6);
+        out.println(Arrays.toString(negs).equals("[-1, -5, -2, -2, -6, -6]")); // Possibly other ordering!
 
         // Mark all negatives with a 1, others as 0
         // (create matrix on the fly)
-        /*
+
         int[][] marked = markNegatives(new int[][]{
                 {1, -2, 3,},
                 {-4, 5, -6,},
                 {7, -8, 9,},
         });
-        */
+
         /* marked should be
         { {0, 1, 0},
           {1, 0, 1},
           {0, 1, 0} }
         */
-        //out.println(Arrays.toString(marked[0]).equals("[0, 1, 0]"));
-        //out.println(Arrays.toString(marked[1]).equals("[1, 0, 1]"));
-        //out.println(Arrays.toString(marked[2]).equals("[0, 1, 0]"));
+        out.println(Arrays.toString(marked[0]).equals("[0, 1, 0]"));
+        out.println(Arrays.toString(marked[1]).equals("[1, 0, 1]"));
+        out.println(Arrays.toString(marked[2]).equals("[0, 1, 0]"));
 
         int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9};
         // Create matrix from array
@@ -73,7 +74,56 @@ public class Ex2MatrixMethods {
 
     // -------- Write methods below this -----------------------
 
+    int[] getNegatives(int[][] arr) {
+        int counter = 0;
 
+        for (int row = 0; row < arr.length; row++) {
+            for (int col = 0; col < arr[row].length; col++) {
+                if (arr[row][col]  < 0) {
+                    counter++;
+                }
+            }
+        }
+
+        if (counter > 0) {
+            int[] negatives = new int[counter];
+            int index = 0;
+
+            for (int row = 0; row < arr.length; row++) {
+                for (int col = 0; col < arr[row].length; col++) {
+                    if (arr[row][col] < 0) {
+                        negatives[index] = arr[row][col];
+                        index++;
+                    }
+                }
+            }
+            return negatives;
+
+        }   else {
+
+            return new int[]{};
+        }
+    }
+
+    int[][] markNegatives (int[][] arr) {
+        for (int row = 0; row < arr.length; row++) {
+            for (int col = 0; col < arr[row].length; col++) {
+                if (arr[row][col] < 0) {
+                    arr[row][col] = 1;
+                }   else {
+                    arr[row][col] = 0;
+                }
+            }
+        }
+        return arr;
+    }
+
+    int[][] toMatrix (int[] arr) {
+
+        int length = arr.length;
+
+        return null;
+    }
 
     boolean isValidLocation(int size, int row, int col) {
         return row >= 0 && col >= 0 && row < size && col < size;

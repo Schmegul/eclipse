@@ -1,3 +1,5 @@
+package xerweek2.src;
+
 import java.util.Arrays;
 
 import static java.lang.System.out;
@@ -26,8 +28,44 @@ public class Ex5ThreeSumToZero {
     }
 
     // NOTE: Solution may not contain nested loops
-    int[] getThreeSum(int[] arr) {
-       // TODO
+    int[] getThreeSumB(int[] arr) {
+
         return null;
+    }
+
+
+
+
+
+
+
+
+    int[] getThreeSum(int[] arr) {
+
+        int l = 0;
+        int r = arr.length - 1;
+
+        while (r -l > 2) {
+            int closest = (arr[l] + arr[(l + r) / 2] + arr[r]);
+            int closestLow = closest;
+            int closestHigh = -closest;
+            for (int m = l+1; m < r; m++) {
+                int sum3 = arr[l] + arr[m] + arr[r];
+                if (sum3 > 0) {
+                    closestHigh = Math.min(closestHigh, sum3);
+                }   else if (sum3 < 0) {
+                    closestLow = Math.max(closestLow, sum3);
+                }   else {
+                    return new int[] {l, m, r};
+                }
+
+            }
+            if (Math.abs(closestLow) > closestHigh) {
+                l++;
+            }   else {
+                r--;
+            }
+        }
+        return new int[] {};
     }
 }
