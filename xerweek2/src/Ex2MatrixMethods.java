@@ -53,16 +53,16 @@ public class Ex2MatrixMethods {
 
         int[] arr = {1, 2, 3, 4, 5, 6, 7, 8, 9};
         // Create matrix from array
-        //int[][] matrix = toMatrix(arr);
+        int[][] matrix = toMatrix(arr);
         /* matrix should be
         { {1, 2, 3},
           {4, 5, 6},
           {7, 8, 9} }
         */
-        //plot(matrix);  // If manual inspection
-        //out.println(Arrays.toString(matrix[0]).equals("[1, 2, 3]"));
-        //out.println(Arrays.toString(matrix[1]).equals("[4, 5, 6]"));
-        //out.println(Arrays.toString(matrix[2]).equals("[7, 8, 9]"));
+        plot(matrix);  // If manual inspection
+        out.println(Arrays.toString(matrix[0]).equals("[1, 2, 3]"));
+        out.println(Arrays.toString(matrix[1]).equals("[4, 5, 6]"));
+        out.println(Arrays.toString(matrix[2]).equals("[7, 8, 9]"));
 
         // Sum of all directly surrounding elements to some element in matrix
         // (not counting the element itself)
@@ -120,9 +120,16 @@ public class Ex2MatrixMethods {
 
     int[][] toMatrix (int[] arr) {
 
-        int length = arr.length;
+        int size = (int)sqrt(arr.length);
+        int[][] m = new int[size][size];
 
-        return null;
+        for (int i = 0; i < arr.length; i++) {
+            int row = i / size;
+            int col = i % size;
+            m[row][col] = arr[i];
+        }
+
+        return m;
     }
 
     boolean isValidLocation(int size, int row, int col) {
