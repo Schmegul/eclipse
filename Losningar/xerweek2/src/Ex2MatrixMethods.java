@@ -1,3 +1,5 @@
+package Losningar.xerweek2.src;
+
 import java.util.Arrays;
 
 import static java.lang.StrictMath.round;
