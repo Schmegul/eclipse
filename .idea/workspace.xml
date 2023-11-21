@@ -4,10 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="def04694-da66-491d-b140-c37d33e14d5c" name="Changes" comment="oh yea also changed java to root directory">
+    <list default="true" id="def04694-da66-491d-b140-c37d33e14d5c" name="Changes" comment="added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek2/src/Ex2MatrixMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/xerweek2/src/Ex2MatrixMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xerweek2/src/Ex2MatrixMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek2/src/Ex2MatrixMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/.idea/Lab1-Mexico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/assignment1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/.idea/mexico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/mexico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/src/Mexico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/out/mexicoer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/out/production/Lab1-Mexico/Mexico$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/out/production/Lab1-Mexico/Mexico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Losningar/xerweek3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex1ArrayMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex2MatrixMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex3SumAvg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex3Theory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex4Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex4GameOfLife$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex4GameOfLife$Cell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex4GameOfLife.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex5Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex5ThreeSumToZero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex6ClassObjects$Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex6ClassObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex7ObjectArrays$Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex7ObjectArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex8RPS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex9TicTacToe$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex9TicTacToe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/assignment1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/mexico.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/out/mexicoer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Mexico$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Mexico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek1/src/Ex1BMI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek1/src/Ex2EasterSunday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xerweek3/src/Ex1LoopPuzzlers.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek3/src/Ex1LoopPuzzlers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xerweek3/src/Ex2SumSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek3/src/Ex2SumSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xerweek3/src/Ex3ArrayMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek3/src/Ex3ArrayMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xerweek3/src/Ex6PointOfInequality.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek3/src/Ex6PointOfInequality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xerweek3/src/exercises3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek3/src/exercises3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xerweek4/src/Ex1WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek4/src/Ex1WordCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xerweek4/src/Ex2PigLatin.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek4/src/Ex2PigLatin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +67,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Schmegul"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1e34b01c-5bb8-43f7-8f02-28bf26c1ba27" />
+        <option name="url" value="https://github.com/Schmegul/eclipse" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -30,6 +95,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/jonat/source/repos/IntelliJ/Java",
     "node.js.detected.package.eslint": "true",
@@ -37,13 +103,23 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/jonat/source/repos/Java/src/Main.java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="JavaFXCalc" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Lab3Calculator.calculatorIntelliJ.src.CalculatorGUI" />
+      <module name="Java" />
+      <option name="VM_PARAMETERS" value="--module-path C:\Users\jonat\OneDrive\Dokument\javafx-sdk-21.0.1\lib --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,7 +134,7 @@
       <workItem from="1698745574638" duration="20000" />
       <workItem from="1698754021380" duration="195000" />
       <workItem from="1699347825083" duration="215000" />
-      <workItem from="1699868138762" duration="3351000" />
+      <workItem from="1699868138762" duration="47822000" />
     </task>
     <task id="LOCAL-00001" summary="changed lösningar to losningar and did some tasks">
       <option name="closed" value="true" />
@@ -76,15 +152,52 @@
       <option name="project" value="LOCAL" />
       <updated>1699870000171</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added week3 and week4 exercises">
+      <option name="closed" value="true" />
+      <created>1699875439428</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699875439428</updated>
+    </task>
+    <task id="LOCAL-00004" summary="removing errors">
+      <option name="closed" value="true" />
+      <created>1699875684130</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699875684130</updated>
+    </task>
+    <task id="LOCAL-00005" summary="removing errors">
+      <option name="closed" value="true" />
+      <created>1699875953246</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699875953246</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changed lösningar to losningar and did some tasks" />
     <MESSAGE value="oh yea also changed java to root directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="oh yea also changed java to root directory" />
+    <MESSAGE value="Added week3 and week4 exercises" />
+    <MESSAGE value="removing errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="removing errors" />
   </component>
 </project>

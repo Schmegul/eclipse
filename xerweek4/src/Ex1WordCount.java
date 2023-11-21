@@ -1,5 +1,7 @@
 package xerweek4.src;
 
+import java.util.Arrays;
+
 import static java.lang.System.out;
 
 /*
@@ -18,7 +20,8 @@ public class Ex1WordCount {
 
     void program() {
         // All should print true
-        /*
+//        out.println(countWords(" the among ss  so"));
+//        /*
         out.println(countWords("") == 0);
         out.println(countWords("hello") == 1);
         out.println(countWords(" hello ") == 1);
@@ -27,11 +30,21 @@ public class Ex1WordCount {
         out.println(countWords("   hello        world  ") == 2);
         String s = "Education is what remains after one has forgotten what one has learned in school.";
         out.println(countWords(s) == 14);
-        */
+//        */
     }
 
     // ---------------- Methods -----------------------
 
+    int countWords (String s) {
+        String[] egg = s.split(" ");
+        int empty = 0;
+        for (int i = 0; i < egg.length; i++) {
+            if (egg[i].isEmpty()) {
+                empty++;
+            }
+        }
 
+        return egg.length - empty;
+    }
 
 }

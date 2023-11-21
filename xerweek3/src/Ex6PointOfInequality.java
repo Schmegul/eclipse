@@ -1,5 +1,7 @@
 package xerweek3.src;
 
+import java.util.Objects;
+
 import static java.lang.Math.abs;
 import static java.lang.System.out;
 
@@ -25,13 +27,46 @@ public class Ex6PointOfInequality {
         String[] s2 = {"a", "bb", "c", "d", "e"};
 
         // All should print true
-        //out.println(diffIndex(a1, a2) == 2);  // First index from left where they differ
-        //out.println(diffIndex(a1, a1) == -1); // No diff
-        //out.println(diffIndex(a0, a1) == -1);
-        //out.println(diffIndex(d1, d2) == 4);
-        //out.println(diffIndex(s1, s2) == 1);
+        out.println(diffIndex(a1, a2) == 2);  // First index from left where they differ
+        out.println(diffIndex(a1, a1) == -1); // No diff
+        out.println(diffIndex(a0, a1) == -1);
+        out.println(diffIndex(d1, d2) == 4);
+        out.println(diffIndex(s1, s2) == 1);
     }
 
     // ----------- Method(s) -----------------------
 
+//        int diffIndex (Object[] a1, Object[] a2) {
+//            for (int i = 0; i < Math.min(a1.length, a2.length); i++) {
+//                if (a1[i] != a2[i]) {
+//                    return i;
+//                }
+//            }
+//            return -1;
+//        }
+        int diffIndex (int[] a1, int[] a2) {
+            for (int i = 0; i < Math.min(a1.length, a2.length); i++) {
+                if (a1[i] != a2[i]) {
+                    return i;
+                }
+            }
+            return -1;
+        }
+
+        int diffIndex (double[] a1, double[] a2) {
+            for (int i = 0; i < Math.min(a1.length, a2.length); i++) {
+                if (a1[i] != a2[i]) {
+                    return i;
+                }
+            }
+            return -1;
+        }
+        int diffIndex (String[] a1, String[] a2) {
+            for (int i = 0; i < Math.min(a1.length, a2.length); i++) {
+                if (!a1[i].equals(a2[i])) {
+                    return i;
+                }
+            }
+            return -1;
+        }
 }

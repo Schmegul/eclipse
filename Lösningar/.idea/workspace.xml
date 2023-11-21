@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="414010bf-1dfb-4582-bc8c-a875f52c7123" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/.idea/Lab1-Mexico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/assignment1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/mexico-IntelliJ/.idea/mexico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/mexico-IntelliJ/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/mexico-IntelliJ/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/mexico-IntelliJ/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/mexico-IntelliJ/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/mexico-IntelliJ/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/mexico-IntelliJ/mexico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/mexico-IntelliJ/src/Mexico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/mexico.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/out/mexicoer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/out/production/Lab1-Mexico/Mexico$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1-Mexico/out/production/Lab1-Mexico/Mexico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Losningar/xerweek3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Losningar/xerweek4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex1ArrayMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex2MatrixMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex3SumAvg.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex3Theory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex4Arrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex4GameOfLife$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex4GameOfLife$Cell.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex4GameOfLife.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex5Methods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex5ThreeSumToZero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex6ClassObjects$Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex6ClassObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex7ObjectArrays$Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex7ObjectArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex8RPS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex9TicTacToe$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Ex9TicTacToe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Lab1-Mexico/assignment1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Lab1-Mexico/mexico.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Lab1-Mexico/out/mexicoer.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Losningar/xerweek3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Losningar/xerweek4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Mexico$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/Mexico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/xerweek1/src/Ex1BMI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Java/xerweek1/src/Ex2EasterSunday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xerweek3/src/Ex1LoopPuzzlers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xerweek3/src/Ex1LoopPuzzlers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xerweek3/src/Ex2SumSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xerweek3/src/Ex2SumSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xerweek3/src/Ex3ArrayMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xerweek3/src/Ex3ArrayMethods.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2XWo8XMEIt3z3ySUDjbiJXnNYFc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/jonat/source/repos/IntelliJ/Java/Lab1-Mexico",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Ex3SumAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3SumAvg" />
+      <module name="Lösningar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex3SumAvg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="414010bf-1dfb-4582-bc8c-a875f52c7123" name="Changes" comment="" />
+      <created>1698754037411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698754037411</updated>
+      <workItem from="1698754038420" duration="9382000" />
+      <workItem from="1699349507213" duration="4309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
