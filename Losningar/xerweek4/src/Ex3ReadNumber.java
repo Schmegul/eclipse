@@ -1,3 +1,5 @@
+package Losningar.xerweek4.src;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -59,6 +61,7 @@ public class Ex3ReadNumber {
             i++;
         }
         numbers.add(b.toString());
+        out.println(numbers);
         return i;
     }
 }

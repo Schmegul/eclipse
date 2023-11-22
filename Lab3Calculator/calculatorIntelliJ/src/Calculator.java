@@ -108,20 +108,20 @@ public class Calculator {
 
     // List String (not char) because numbers (with many chars)
     List<String> tokenize(String expr) {
-        String[] krobby = (expr.replaceAll(" ","")).split("");  // trims the spaces of each object and splits the acquired string
+        String[] arr = (expr.replaceAll(" ","")).split("");  // trims the spaces of each object and splits the acquired string
         List<String> res = new LinkedList<String>();
         String tmp = "";    // tmp is used to make numbers of any size
 
-        for (int i = 0; i < krobby.length; i++) {
-            if (NUMBERS.contains(krobby[i])) {
-                tmp += krobby[i];   // used to make longer numbers
+        for (int i = 0; i < arr.length; i++) {
+            if (NUMBERS.contains(arr[i])) {
+                tmp += arr[i];   // used to make longer numbers
             } else {
                 if (!tmp.isEmpty()) {   // when a long number has ended, it gets added
                     res.add(tmp);
                     tmp = "";
                 }
-                if (!krobby[i].equals(" ")) {
-                    res.add(krobby[i]); // just adds everything else
+                if (!arr[i].equals(" ")) {
+                    res.add(arr[i]); // just adds everything else
                 }
             }
         }

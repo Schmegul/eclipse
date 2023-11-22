@@ -1,3 +1,5 @@
+package Losningar.xerweek4.src;
+
 import static java.lang.System.out;
 
 /*

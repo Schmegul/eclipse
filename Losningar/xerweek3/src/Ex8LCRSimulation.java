@@ -1,3 +1,5 @@
+package Losningar.xerweek3.src;
+
 import java.util.Arrays;
 import java.util.Random;
 

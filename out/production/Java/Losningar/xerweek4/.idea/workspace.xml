@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2d249133-5f36-4c01-b1a8-44e7edbe49a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xerweek5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xerweek5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dat043/ass/calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../dat043/ass/calculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dat043/exam/e220312/exam/exam220312.lyx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../dat043/exam/e220312/exam/exam220312.lyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dat043/exam/e220312/src/solution/Exam220312.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../dat043/exam/e220312/src/solution/Exam220312.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1VABtxwx58XCShko41Vv7gmfFuj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../dat043/ass/calculator" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="xlect.types" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Ex4CheckParen">
+    <configuration name="Ex1WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex1WordCount" />
+      <module name="xerweek4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex3ReadNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3ReadNumber" />
+      <module name="xerweek4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex4CheckParen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4CheckParen" />
+      <module name="xerweek4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex5StringOrdering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5StringOrdering" />
+      <module name="xerweek4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex6SplitList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6SplitList" />
+      <module name="xerweek4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ex4CheckParen" />
+        <item itemvalue="Application.Ex3ReadNumber" />
+        <item itemvalue="Application.Ex1WordCount" />
+        <item itemvalue="Application.Ex5StringOrdering" />
+        <item itemvalue="Application.Ex6SplitList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d249133-5f36-4c01-b1a8-44e7edbe49a2" name="Default Changelist" comment="" />
+      <created>1569423832009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569423832009</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2411" y="237" width="319" height="410" key="FileChooserDialogImpl" timestamp="1645446885389">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="737" y="278" width="426" height="480" key="FileChooserDialogImpl/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1639987366697" />
+    <state x="2411" y="237" width="319" height="410" key="FileChooserDialogImpl/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1645446885389" />
+    <state width="1053" height="159" key="GridCell.Tab.0.bottom" timestamp="1644832963085">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1289" height="210" key="GridCell.Tab.0.bottom/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1644561106951" />
+    <state width="1053" height="159" key="GridCell.Tab.0.bottom/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1644832963085" />
+    <state width="1053" height="159" key="GridCell.Tab.0.center" timestamp="1644832963085">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1289" height="210" key="GridCell.Tab.0.center/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1644561106951" />
+    <state width="1053" height="159" key="GridCell.Tab.0.center/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1644832963085" />
+    <state width="1053" height="159" key="GridCell.Tab.0.left" timestamp="1644832963085">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1289" height="210" key="GridCell.Tab.0.left/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1644561106951" />
+    <state width="1053" height="159" key="GridCell.Tab.0.left/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1644832963085" />
+    <state width="1053" height="159" key="GridCell.Tab.0.right" timestamp="1644832963085">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="1289" height="210" key="GridCell.Tab.0.right/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1644561106951" />
+    <state width="1053" height="159" key="GridCell.Tab.0.right/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1644832963085" />
+  </component>
+</project>

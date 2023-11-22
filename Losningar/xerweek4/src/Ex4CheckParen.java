@@ -1,3 +1,5 @@
+package Losningar.xerweek4.src;
+
 import java.util.ArrayDeque;
 import java.util.Deque;
 

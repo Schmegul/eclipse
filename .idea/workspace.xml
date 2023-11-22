@@ -4,61 +4,174 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="def04694-da66-491d-b140-c37d33e14d5c" name="Changes" comment="added">
+    <list default="true" id="def04694-da66-491d-b140-c37d33e14d5c" name="Changes" comment="Fixed some errors, progress on calc lab">
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab1Mexico/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab1Mexico/.idea/Lab1-Mexico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab1Mexico/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab1Mexico/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab1Mexico/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab1Mexico/mexicoIntelliJ/.idea/mexico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab1Mexico/mexicoIntelliJ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab1Mexico/mexicoIntelliJ/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab1Mexico/mexicoIntelliJ/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab1Mexico/mexicoIntelliJ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab1Mexico/mexicoIntelliJ/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab1Mexico/mexicoIntelliJ/mexico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab3Calculator/calculatorIntelliJ/.idea/calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab3Calculator/calculatorIntelliJ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab3Calculator/calculatorIntelliJ/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab3Calculator/calculatorIntelliJ/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab3Calculator/calculatorIntelliJ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lab3Calculator/calculatorIntelliJ/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/.idea/libraries/Lösningar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/Lösningar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/out/production/Lösningar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/out/production/Lösningar/.idea/libraries/Lösningar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/out/production/Lösningar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/out/production/Lösningar/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/out/production/Lösningar/Lösningar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/out/production/Lösningar/xerweek1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/out/production/Lösningar/xerweek1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/out/production/Lösningar/xerweek1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/out/production/Lösningar/xerweek1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/out/production/Lösningar/xerweek1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/out/production/Lösningar/xerweek1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/out/production/Lösningar/xerweek1/.idea/xerweek1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/out/production/Lösningar/xerweek1/week1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek1/.idea/xerweek1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek1/week1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek2/.idea/xerweek2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek2/week2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek3/.idea/xerweek3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek3/week3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/.idea/xerweek4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/src/Ex2PigLatin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/src/Ex3ReadNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/src/Ex4CheckParen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/src/Ex5StringOrdering.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/src/Ex6SplitList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/src/Ex7Grouping$Position.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/src/Ex7Grouping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/src/Ex8SJT.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4/week4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/Lösningar/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/xerweek3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/xerweek3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/xerweek3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/xerweek3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/xerweek3/.idea/xerweek3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/xerweek3/week3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/xerweek4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/xerweek4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/xerweek4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/xerweek4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/xerweek4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/xerweek4/.idea/xerweek4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Java/xerweek4/week4.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/.idea/Lab1-Mexico.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/assignment1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/.idea/mexico.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/mexico.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico-IntelliJ/src/Mexico.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/mexico.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/out/mexicoer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/out/production/Lab1-Mexico/Mexico$Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab1-Mexico/out/production/Lab1-Mexico/Mexico.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Losningar/xerweek3.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex1ArrayMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex2MatrixMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex3SumAvg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex3Theory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex4Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex4GameOfLife$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex4GameOfLife$Cell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex4GameOfLife.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex5Methods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex5ThreeSumToZero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex6ClassObjects$Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex6ClassObjects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex7ObjectArrays$Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex7ObjectArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex8RPS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex9TicTacToe$Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex9TicTacToe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/assignment1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/mexico.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/out/mexicoer.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek3.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Losningar/xerweek4.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Mexico$Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Mexico.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek1/src/Ex1BMI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek1/src/Ex2EasterSunday.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xerweek3/src/Ex1LoopPuzzlers.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek3/src/Ex1LoopPuzzlers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xerweek3/src/Ex2SumSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek3/src/Ex2SumSeries.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xerweek3/src/Ex3ArrayMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek3/src/Ex3ArrayMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xerweek3/src/Ex6PointOfInequality.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek3/src/Ex6PointOfInequality.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xerweek3/src/exercises3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek3/src/exercises3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xerweek4/src/Ex1WordCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek4/src/Ex1WordCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xerweek4/src/Ex2PigLatin.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek4/src/Ex2PigLatin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3Calculator/calculatorIntelliJ/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3Calculator/calculatorIntelliJ/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3Calculator/calculatorIntelliJ/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3Calculator/calculatorIntelliJ/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Losningar/xerweek3/src/Ex4Theory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek3/src/Ex4Theory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Losningar/xerweek3/src/Ex5MedianKthSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek3/src/Ex5MedianKthSmallest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Losningar/xerweek3/src/Ex6PointOfInequality.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek3/src/Ex6PointOfInequality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Losningar/xerweek3/src/Ex7GenericMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek3/src/Ex7GenericMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Losningar/xerweek3/src/Ex8LCRSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek3/src/Ex8LCRSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex2PigLatin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex2PigLatin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex3ReadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex3ReadNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex4CheckParen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex4CheckParen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex5StringOrdering.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex5StringOrdering.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex6SplitList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex6SplitList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex7Grouping.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex7Grouping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex8SJT.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex8SJT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex2PigLatin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex3ReadNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex4CheckParen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex5StringOrdering.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex6SplitList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex7Grouping$Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex7Grouping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex8SJT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/.idea/Lab1-Mexico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/mexico-IntelliJ/.idea/mexico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/mexico-IntelliJ/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/mexico-IntelliJ/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/mexico-IntelliJ/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/mexico-IntelliJ/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/mexico-IntelliJ/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab1-Mexico/mexico-IntelliJ/mexico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab3Calculator/calculatorIntelliJ/src/Calculator$Assoc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Lab3Calculator/calculatorIntelliJ/src/Calculator$Assoc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab3Calculator/calculatorIntelliJ/src/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Lab3Calculator/calculatorIntelliJ/src/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lab3Calculator/calculatorIntelliJ/src/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/Lab3Calculator/calculatorIntelliJ/src/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/.idea/libraries/Lösningar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/Lösningar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/out/production/Lösningar/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/out/production/Lösningar/.idea/libraries/Lösningar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/out/production/Lösningar/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/out/production/Lösningar/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/out/production/Lösningar/Lösningar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/out/production/Lösningar/xerweek1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/out/production/Lösningar/xerweek1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/out/production/Lösningar/xerweek1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/out/production/Lösningar/xerweek1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/out/production/Lösningar/xerweek1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/out/production/Lösningar/xerweek1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/out/production/Lösningar/xerweek1/.idea/xerweek1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/out/production/Lösningar/xerweek1/week1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek1/.idea/xerweek1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek1/week1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek2/.idea/xerweek2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/Lösningar/xerweek2/week2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek4/src/Ex3ReadNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/xerweek4/src/Ex3ReadNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xerweek4/src/Ex3ReadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek4/src/Ex3ReadNumber.java" afterDir="false" />
+    </list>
+    <list id="bacf88a5-31eb-4d06-a506-3fc4ccd47367" name="Changes by erik" comment="">
+      <change beforePath="$PROJECT_DIR$/Lab3Calculator/calculatorIntelliJ/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3Calculator/calculatorIntelliJ/src/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +195,20 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/Lab3Calculator/calculatorIntelliJ/src/Calculator.java">
+      <ranges>
+        <range start1="72" end1="72" start2="72" end2="74" changelist="bacf88a5-31eb-4d06-a506-3fc4ccd47367" />
+        <range start1="73" end1="73" start2="75" end2="96" changelist="bacf88a5-31eb-4d06-a506-3fc4ccd47367" />
+        <range start1="74" end1="74" start2="97" end2="103" changelist="bacf88a5-31eb-4d06-a506-3fc4ccd47367" />
+        <range start1="75" end1="75" start2="104" end2="105" changelist="bacf88a5-31eb-4d06-a506-3fc4ccd47367" />
+        <range start1="76" end1="77" start2="106" end2="107" changelist="bacf88a5-31eb-4d06-a506-3fc4ccd47367" />
+        <range start1="110" end1="111" start2="140" end2="141" changelist="def04694-da66-491d-b140-c37d33e14d5c" />
+        <range start1="114" end1="117" start2="144" end2="147" changelist="def04694-da66-491d-b140-c37d33e14d5c" />
+        <range start1="122" end1="124" start2="152" end2="154" changelist="def04694-da66-491d-b140-c37d33e14d5c" />
+      </ranges>
+    </file>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -102,6 +229,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/jonat/source/repos/Java/src/Main.java",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
@@ -119,6 +247,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3Calculator.calculatorIntelliJ.src.Test" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab3Calculator.calculatorIntelliJ.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JavaFXCalc" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -134,7 +284,7 @@
       <workItem from="1698745574638" duration="20000" />
       <workItem from="1698754021380" duration="195000" />
       <workItem from="1699347825083" duration="215000" />
-      <workItem from="1699868138762" duration="47822000" />
+      <workItem from="1699868138762" duration="62783000" />
     </task>
     <task id="LOCAL-00001" summary="changed lösningar to losningar and did some tasks">
       <option name="closed" value="true" />
@@ -176,7 +326,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699875953246</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added calculator lab and done exercises">
+      <option name="closed" value="true" />
+      <created>1700558030700</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1700558030700</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +356,14 @@
     <MESSAGE value="oh yea also changed java to root directory" />
     <MESSAGE value="Added week3 and week4 exercises" />
     <MESSAGE value="removing errors" />
-    <option name="LAST_COMMIT_MESSAGE" value="removing errors" />
+    <MESSAGE value="added calculator lab and done exercises" />
+    <MESSAGE value="Fixed some errors, progress on calc lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed some errors, progress on calc lab" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java$Test.ic" NAME="Test Coverage Results" MODIFIED="1700645672728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lab3Calculator.calculatorIntelliJ.src.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java$JavaFXCalc.ic" NAME="JavaFXCalc Coverage Results" MODIFIED="1700645717259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

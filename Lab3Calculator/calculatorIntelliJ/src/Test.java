@@ -28,28 +28,30 @@ class Test {
         // Tokenization ---------------------------
 
 //        t("1 + 10", "1 + 10");  // Arguments are input and expected output
-        /*
-        t("1+ 10", "1 + 10");   // Expected is in fact a list [ "1", "+", "10"]
-        t("1 +10", "1 + 10");
-        t("1+10", "1 + 10");
-        t("(1+10) ", "( 1 + 10 )");  // List is [ "(", "1", "+", "10", ")" ]
-        t("2 *( 1+10) ", "2 * ( 1 + 10 )");
-        t("(1 +2) /2 *( 1+10) ", "( 1 + 2 ) / 2 * ( 1 + 10 )");
+//        /*
+//        t("1+ 10", "1 + 10");   // Expected is in fact a list [ "1", "+", "10"]
+//        t("1 +10", "1 + 10");
+//        t("1+10", "1 + 10");
+//        t("(1+10) ", "( 1 + 10 )");  // List is [ "(", "1", "+", "10", ")" ]
+//        t("2 *( 1+10) ", "2 * ( 1 + 10 )");
+//        t("(1 +2) /2 *( 1+10) ", "( 1 + 2 ) / 2 * ( 1 + 10 )");
 
-        /*
+
         // Infix to postfix -----------------------
         i2p("1+10", "1 10 +");
+//        i2p("(2+(3*5+5))", "1 10 +");
+//        i2p("(2+(3*5+5))", "1 10 +");
         i2p("1+2+3", "1 2 + 3 +");
         i2p("1+2-3", "1 2 + 3 -");
         i2p("3-2-1", "3 2 - 1 -");
         i2p("1 + 2 * 3", "1 2 3 * +");
         i2p("1 / 2 + 3", "1 2 / 3 +");
         i2p("20/4/2", "20 4 / 2 /");
-        i2p("4^3^2", "4 3 2 ^ ^");
+        i2p("4^3^2", "4 3 2 ^ ^");  // will return false, look at getAss
         i2p("4^3*2", "4 3 ^ 2 *");
         i2p("(1+2)*3", "1 2 + 3 *");
         i2p("2^(1+1)", "2 1 1 + ^");
-
+/*
         // Evaluation ------------------------------
         // A value
         e("123", 123);
@@ -138,6 +140,7 @@ class Test {
     void i2p(String infix, String expected) {
         List<String> tokens = calculator.tokenize(infix);
         List<String> postfix = calculator.infix2Postfix(tokens);
+//        out.println(postfix);
         String result = String.join(" ", postfix);
         out.println(result.equals(expected));
     }
