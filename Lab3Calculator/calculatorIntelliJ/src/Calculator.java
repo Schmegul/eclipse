@@ -70,11 +70,41 @@ public class Calculator {
 
     List<String> infix2Postfix(List<String> infix) {
         // TODO
+        Stack<String> stack = new Stack<>();
+        List<String> postfix = new LinkedList<>();
 
+        for(String s : infix){
+            if(OPERATORS.contains(s)) {
+                while(!stack.isEmpty() && !stack.peek().equals("(") && getPrecedence(stack.peek()) >= getPrecedence(s)){
+                    postfix.add(stack.pop());
+                }
+                stack.push(s);
+            }
+            else if(s.equals("(")){
+                stack.push(s);
+            }
+            else if(s.equals(")")) {
+                while(!stack.isEmpty() && !stack.peek().equals("(")){
+                    postfix.add(stack.pop());
+                }
+                stack.remove(stack.lastIndexOf("("));
+            }
+            else {
+                postfix.add(s);
+            }
+//            out.println(s + "    " + stack.toString() + "    " + postfix.toString());
+        }
 
+        while(!stack.isEmpty()){
+            if(stack.peek().equals("(")){
+                throw new IllegalArgumentException("INVALID EXPRESSION");
+            }
+            postfix.add(stack.pop());
+        }
 
+        out.println(postfix.toString());
 
-        return null;
+        return postfix;
     }
 
     int getPrecedence(String op) {
