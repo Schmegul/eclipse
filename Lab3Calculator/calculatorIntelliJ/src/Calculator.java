@@ -68,42 +68,56 @@ public class Calculator {
 
     // ------- Infix 2 Postfix ------------------------
 
-    List<String> infix2Postfix(List<String> infix) {
-        // TODO
-        Stack<String> stack = new Stack<>();
-        List<String> postfix = new LinkedList<>();
+    public boolean isHigherPrecedence(String op, String stackOp){
+        return (isLeftAssoc(op) && getPrecedence(op) <= getPrecedence(stackOp) ||
+                (isRightAssoc(op) && getPrecedence(op) < getPrecedence(stackOp)));
+    }
+    public boolean isLeftAssoc(String op){
+        return getAssociativity(op) == Assoc.LEFT;
+    }
+    public boolean isRightAssoc(String op){
+        return getAssociativity(op) == Assoc.RIGHT;
+    }
+    public boolean isLBracket(String op){
+        return "(".equals(op);
+    }
+
+    public void krobban(String s){
+        while(!this.stack.isEmpty() && isOP(stack.peek()) && isHigherPrecedence(s, stack.peek())){
+            this.postfix.add(this.stack.pop());
+        }
+    }
+
+    List<String> i2p(List<String> infix){
+        this.stack = new Stack<>();
+        this.postfix = new LinkedList<>();
 
         for(String s : infix){
-            if(OPERATORS.contains(s)) {
-                while(!stack.isEmpty() && !stack.peek().equals("(") && getPrecedence(stack.peek()) >= getPrecedence(s)){
-                    postfix.add(stack.pop());
-                }
+            if(isOP(s)){
+                krobban(s);
                 stack.push(s);
             }
-            else if(s.equals("(")){
+            else if(isLBracket(s)){
                 stack.push(s);
             }
-            else if(s.equals(")")) {
-                while(!stack.isEmpty() && !stack.peek().equals("(")){
+            else if(s.equals(")")){
+                while(!stack.isEmpty() && !isLBracket(stack.peek())){
                     postfix.add(stack.pop());
                 }
                 stack.remove(stack.lastIndexOf("("));
             }
-            else {
+            else{
                 postfix.add(s);
             }
-//            out.println(s + "    " + stack.toString() + "    " + postfix.toString());
         }
-
         while(!stack.isEmpty()){
             if(stack.peek().equals("(")){
                 throw new IllegalArgumentException("INVALID EXPRESSION");
             }
             postfix.add(stack.pop());
         }
-
-        out.println(postfix.toString());
-
+//        out.println(stack.toString());
+//        out.println(postfix.toString());
         return postfix;
     }
 
@@ -118,7 +132,6 @@ public class Calculator {
             throw new RuntimeException(OP_NOT_FOUND);
         }
     }
-
     Assoc getAssociativity(String op) {
         if ("+-*/".contains(op)) {
             return Assoc.LEFT;
@@ -140,15 +153,15 @@ public class Calculator {
     List<String> tokenize(String expr) {
         String[] arr = (expr.replaceAll(" ","")).split("");  // trims the spaces of each object and splits the acquired string
         List<String> res = new LinkedList<String>();
-        String tmp = "";    // tmp is used to make numbers of any size
+        StringBuilder tmp = new StringBuilder();    // tmp is used to make numbers of any size
 
         for (int i = 0; i < arr.length; i++) {
             if (NUMBERS.contains(arr[i])) {
-                tmp += arr[i];   // used to make longer numbers
+                tmp.append(arr[i]);   // used to make longer numbers
             } else {
                 if (!tmp.isEmpty()) {   // when a long number has ended, it gets added
-                    res.add(tmp);
-                    tmp = "";
+                    res.add(tmp.toString());
+                    tmp = new StringBuilder();
                 }
                 if (!arr[i].equals(" ")) {
                     res.add(arr[i]); // just adds everything else
@@ -157,7 +170,7 @@ public class Calculator {
         }
         // Adds tmp if last char is a number.
         if(!tmp.isEmpty()) {
-            res.add(tmp);
+            res.add(tmp.toString());
         }
         return res;
     }
