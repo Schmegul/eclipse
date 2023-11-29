@@ -18,7 +18,6 @@ import static java.lang.System.*;
  *   - No negative numbers implemented
  */
 public class Calculator {
-
     // Here are the only allowed instance variables!
     // Error messages (more on static later)
     final static String MISSING_OPERAND = "Missing or bad operand";
@@ -30,21 +29,37 @@ public class Calculator {
     final static String OPERATORS = "+-*/^";
     final static String NUMBERS = "1234567890";
 
+    private Stack<String> stack;
+    private List<String> postfix;
     // Method used in REPL
     double eval(String expr) {
         if (expr.length() == 0) {
             return NaN;
         }
         List<String> tokens = tokenize(expr);
-        List<String> postfix = infix2Postfix(tokens);
+        List<String> postfix = i2p(tokens);
         return evalPostfix(postfix);
     }
 
     // ------  Evaluate RPN expression -------------------
 
     double evalPostfix(List<String> postfix) {
-        // TODO
-        return 0;
+        Stack<Double> stock = new Stack<>();
+
+        for(String s : postfix){
+            try{
+                stock.push(Double.parseDouble(s));
+            }
+            catch (NumberFormatException e){
+                if(stock.size() > 1) {
+                    stock.push(applyOperator(s, stock.pop(), stock.pop()));
+                }
+            }
+        }
+        if(stock.size() > 1){
+            throw new IllegalArgumentException("ladskfj");
+        }
+        return stock.peek();
     }
 
     double applyOperator(String op, double d1, double d2) {
@@ -64,6 +79,13 @@ public class Calculator {
                 return pow(d2, d1);
         }
         throw new RuntimeException(OP_NOT_FOUND);
+    }
+
+    public boolean isOP(String op){
+        if(OPERATORS.contains(op)){
+            return true;
+        }
+        return false;
     }
 
     // ------- Infix 2 Postfix ------------------------
@@ -146,9 +168,7 @@ public class Calculator {
         LEFT,
         RIGHT
     }
-
     // ---------- Tokenize -----------------------
-
     // List String (not char) because numbers (with many chars)
     List<String> tokenize(String expr) {
         String[] arr = (expr.replaceAll(" ","")).split("");  // trims the spaces of each object and splits the acquired string

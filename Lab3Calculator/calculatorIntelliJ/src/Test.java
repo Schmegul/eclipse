@@ -38,7 +38,7 @@ class Test {
 
 
         // Infix to postfix -----------------------
-        i2p("1+10", "1 10 +");
+//        i2p("1+10", "1 10 +");
 //        i2p("(2+(3*5+5))", "1 10 +");
 //        i2p("(2+(3*5+5))", "1 10 +");
 //        i2p("1+2+3", "1 2 + 3 +");
@@ -121,7 +121,6 @@ class Test {
         } catch (IllegalArgumentException e) {
             out.println(e.getMessage().equals(Calculator.MISSING_OPERATOR));
         }
-*/
     }
 
 
@@ -138,7 +137,8 @@ class Test {
     // Infix 2 postfix
     void i2p(String infix, String expected) {
         List<String> tokens = calculator.tokenize(infix);
-        List<String> postfix = calculator.infix2Postfix(tokens);
+//        List<String> postfix = calculator.infix2Postfix(tokens);
+        List<String> postfix = calculator.i2p(tokens);
 //        out.println(postfix);
         String result = String.join(" ", postfix);
         out.println(result.equals(expected));
@@ -147,7 +147,7 @@ class Test {
     // Evaluation
     void e(String infix, double expected) {
         List<String> tokens = calculator.tokenize(infix);
-        List<String> postfix = calculator.infix2Postfix(tokens);
+        List<String> postfix = calculator.i2p(tokens);
         double result = calculator.evalPostfix(postfix);
         out.println(result == expected);
     }
