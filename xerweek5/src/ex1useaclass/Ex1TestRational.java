@@ -25,10 +25,10 @@ public class Ex1TestRational {
     // No program just testing
     private void test() {
         // As usual, all output should print true
-        /*
+
         Rational r = new Rational(2);
         out.println(r.getNum() == 2 && r.getDenom() == 1);
-        r = new Rational(4, 9);
+        r = new Rational(4,9);
         out.println(r.getNum() == 4 && r.getDenom() == 9);
         r = new Rational(49, 168);
         out.println(r.getNum() == 7 && r.getDenom() == 24);  // Always shorted
@@ -38,8 +38,12 @@ public class Ex1TestRational {
         out.println(r.getNum() == 0 && r.getDenom() == 1);
         r = new Rational(-49, 168);
         out.println(r.getNum() == -7 && r.getDenom() == 24);
+//        out.println(r.getNum() + " " +r.getDenom());
+//
         r = new Rational(49, -168);
         out.println(r.getNum() == -7 && r.getDenom() == 24);
+//        out.println(r.getNum() + " " +r.getDenom());
+//
         r = new Rational(-49, -168);
         out.println(r.getNum() == 7 && r.getDenom() == 24);
 
@@ -55,6 +59,7 @@ public class Ex1TestRational {
         out.println(!r3.lessThan(r1));
         out.println(abs(r3.toDouble() - 0.25) < 0.000001);
 
+        // makes a list of rational and checks if a desired rational is in it
         List<Rational> rList = new ArrayList<>();
         rList.add(new Rational(2, 3));
         out.println(rList.contains(new Rational(2, 3)));
@@ -64,7 +69,7 @@ public class Ex1TestRational {
         out.println(complexMsg.get(new Rational(1,1)).equals("one"));
 
         out.println(new Rational(6, 1).toString().equals("6 / 1"));
-        */
+
     }
 }
     
