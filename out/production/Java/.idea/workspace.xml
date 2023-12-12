@@ -4,30 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="def04694-da66-491d-b140-c37d33e14d5c" name="Changes" comment="added calculator lab and done exercises">
+    <list default="true" id="def04694-da66-491d-b140-c37d33e14d5c" name="Changes" comment="Some exercises + maybe ants">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex2PigLatin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex2PigLatin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex3ReadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex3ReadNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex4CheckParen.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex4CheckParen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex5StringOrdering.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex5StringOrdering.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex6SplitList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex6SplitList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex7Grouping.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex7Grouping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex8SJT.java" beforeDir="false" afterPath="$PROJECT_DIR$/Losningar/xerweek4/src/Ex8SJT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex2PigLatin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex3ReadNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex4CheckParen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex5StringOrdering.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex6SplitList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex7Grouping$Position.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex7Grouping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/Ex8SJT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek4/src/Ex3ReadNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/xerweek4/src/Ex3ReadNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xerweek4/src/Ex3ReadNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek4/src/Ex3ReadNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex2usemoreclasses/Ex2TestPointTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex2usemoreclasses/Ex2TestPointTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex2usemoreclasses/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex2usemoreclasses/Triangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex3theory/Ex3Theory$A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex3theory/Ex3Theory$A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex3theory/Ex3Theory$CCtor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex3theory/Ex3Theory$CCtor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex3theory/Ex3Theory$Cainc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex3theory/Ex3Theory$Cainc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex3theory/Ex3Theory$Mth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex3theory/Ex3Theory$Mth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex3theory/Ex3Theory$Pt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex3theory/Ex3Theory$Pt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex3theory/Ex3Theory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/xerweek5/src/ex3theory/Ex3Theory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xerweek5/src/ex2usemoreclasses/Ex2TestPointTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek5/src/ex2usemoreclasses/Ex2TestPointTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xerweek5/src/ex2usemoreclasses/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek5/src/ex2usemoreclasses/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xerweek5/src/ex3theory/Ex3Theory.java" beforeDir="false" afterPath="$PROJECT_DIR$/xerweek5/src/ex3theory/Ex3Theory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,14 +60,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "extract.method.default.visibility": "private",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/jonat/source/repos/IntelliJ/Java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/jonat/source/repos/Java/src/Main.java",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
@@ -74,6 +79,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="xerweek5.src.ex2usemoreclasses" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="JavaFXCalc" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Lab3Calculator.calculatorIntelliJ.src.CalculatorGUI" />
@@ -83,6 +93,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab3Calculator.calculatorIntelliJ.src.Test" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab3Calculator.calculatorIntelliJ.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JavaFXCalc" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -98,7 +130,7 @@
       <workItem from="1698745574638" duration="20000" />
       <workItem from="1698754021380" duration="195000" />
       <workItem from="1699347825083" duration="215000" />
-      <workItem from="1699868138762" duration="52123000" />
+      <workItem from="1699868138762" duration="102207000" />
     </task>
     <task id="LOCAL-00001" summary="changed lösningar to losningar and did some tasks">
       <option name="closed" value="true" />
@@ -148,7 +180,47 @@
       <option name="project" value="LOCAL" />
       <updated>1700558030700</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fixed some errors, progress on calc lab">
+      <option name="closed" value="true" />
+      <created>1700657047343</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700657047343</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Lab progress">
+      <option name="closed" value="true" />
+      <created>1700657064569</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700657064569</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added week 5 &amp; 6 exercises">
+      <option name="closed" value="true" />
+      <created>1701261212717</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1701261212717</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Some updates on calc lab">
+      <option name="closed" value="true" />
+      <created>1701261231505</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701261231505</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Some exercises + maybe ants">
+      <option name="closed" value="true" />
+      <created>1701868027609</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701868027609</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +243,18 @@
     <MESSAGE value="Added week3 and week4 exercises" />
     <MESSAGE value="removing errors" />
     <MESSAGE value="added calculator lab and done exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="added calculator lab and done exercises" />
+    <MESSAGE value="Fixed some errors, progress on calc lab" />
+    <MESSAGE value="Lab progress" />
+    <MESSAGE value="Changes by erik" />
+    <MESSAGE value="Added week 5 &amp; 6 exercises" />
+    <MESSAGE value="Some updates on calc lab" />
+    <MESSAGE value="Some exercises + maybe ants" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some exercises + maybe ants" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java$Test.ic" NAME="Test Coverage Results" MODIFIED="1700645672728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Lab3Calculator.calculatorIntelliJ.src.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java$JavaFXCalc.ic" NAME="JavaFXCalc Coverage Results" MODIFIED="1700645717259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

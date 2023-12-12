@@ -1,4 +1,4 @@
-package fromweek6.overloadoverride.vehicle;
+package xertheory.src.fromweek6.overloadoverride.vehicle;
 
 // See TestVehicle
 public class Car extends Vehicle {

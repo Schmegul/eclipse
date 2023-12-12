@@ -6,5 +6,18 @@ import java.util.Random;
 
 public abstract class Vehicle {
 
-   // TODO
+    private String id;
+    private Person owner;
+    public Vehicle(String id, Person owner) {
+        this.id = id;
+        this.owner = owner;
+    }
+
+    @Override
+    public String toString() {
+        return "{owner="+owner
+                +"}, id="
+                +id+"}";
+    }
+
 }

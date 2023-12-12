@@ -1,5 +1,7 @@
 package xerweek5.src.ex3theory;
 
+import static java.lang.System.out;
+
 /*
  *     Theory questions
  *
@@ -16,7 +18,7 @@ public class Ex3Theory {
 
     void program() {
         //1. What will be printed? Why?
-        /*Pt p1 = new Pt();
+        Pt p1 = new Pt();
         Pt p2 = new Pt();
         Pt p3;
 
@@ -27,41 +29,41 @@ public class Ex3Theory {
         p3 = p1;
         p1 = p2;
 
-        out.println(p1 == p2);
-        out.println(p2 == p3);
-        out.println(p1 == p3);
-
-        out.println(p1.x == p2.x);
-        out.println(p2.x == p3.x);
-        out.println(p3.y == p1.y);*/
-
-        // 2. What will be printed? Why? See Mth class below
-        /*Mth m = new Mth(3);
-        m.op(1.5);
-        m.op();
-        m.op(2);
-        out.println(m.i);*/
-
-        // 3. What will be printed? Why? How many objects are involved?
-        /*Cainc cc = new Cainc(5);
-        out.println(cc.doIt().doIt().doIt().doIt().i);*/
-
-        // 4. What will be printed? Why? How many objects are involved?
-        /*CCtor c = new CCtor(new CCtor(new CCtor(8)));
-        out.println(c.i);
-        */
-
-        // 5. Some rows will give errors. Explain!
-        /*
-        A.a = A.b;              // 1
+//        out.println(p1 == p2);    // true p1 = p2
+//        out.println(p2 == p3);    // false p3(1, 2) p2(2,4)
+//        out.println(p1 == p3);    // false -||-
+////
+//        out.println(p1.x == p2.x);    // true
+//        out.println(p2.x == p3.x);    // false
+//        out.println(p3.y == p1.y);    // false
+//
+//        // 2. What will be printed? Why? See Mth class below
+        Mth m = new Mth(3);
+//        m.op(1.5);  // 4
+//        m.op();        // 8
+//        m.op(2);    // 10
+//        out.println(m.i);   // 10
+//
+//        // 3. What will be printed? Why? How many objects are involved?
+//        Cainc cc = new Cainc(5);
+//        out.println(cc.doIt().doIt().doIt().doIt().i);    //9
+//
+//        // 4. What will be printed? Why? How many objects are involved?
+        CCtor c = new CCtor(new CCtor(new CCtor(8)));
+//        out.println(c.i);   // printed: 8   objects: 4
+//
+//
+//        // 5. Some rows will give errors. Explain!
+//        /*
+//        A.a = A.b;              // 1  doesnt - a is static b isnt
         A.a = new A().b;        // 2
-        A.b = A.a;              // 3
+//        A.b = A.a;              // 3  doesnt - a is static b isnt
         new A().b = A.a;        // 4
         new A().a = new A().b;  // 5
         new A().b = new A().a;  // 6
-        A a = null;             // 7
-        out.println(a.a);       // 8
-        */
+        A a = null;             // 7  A a not A.a
+        out.println(a.a);       // 8  a.a not A.a
+
     }
 
     // ---------- Classes ----------------------------

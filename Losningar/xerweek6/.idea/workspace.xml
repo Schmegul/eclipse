@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44cc4077-d2e3-4059-8a88-4c578c51a0be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/w3/lect1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/w3/lect2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/w4/lect1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/w4/lect2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/w5/lect1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/w5/lect2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/w6/lect1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/w6/lect2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/w7/lect1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/w7/lect2.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dat043/exam/e220312/exam/exam220312.lyx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../dat043/exam/e220312/exam/exam220312.lyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/ass/bullscows/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/bullscows.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/bullscows.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/bullscows.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/bullscows.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/bullscows.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/bullscows.dir/bullscows.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/bullscows.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/bullscows.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/bullscows.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/bullscows.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/bullscows.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/ass/bullscows/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b1_output.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b1_output.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b1_output.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b1_output.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b2_types_sizes.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b2_types_sizes.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b2_types_sizes.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b2_types_sizes.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b3_variables.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b3_variables.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b3_variables.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b3_variables.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b4_input.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b4_input.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b4_input.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b4_input.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b5_operators.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b5_operators.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b5_operators.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b5_operators.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b6_c2f.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b6_c2f.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b6_c2f.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b6_c2f.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b6_c2f.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b6_c2f.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b6_c2f.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b6_c2f.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b6_c2f.dir/ex1basics/b6_c2f.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b7_macro.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b7_macro.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b7_macro.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/b7_macro.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f1_def_call.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f1_def_call.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f1_def_call.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f1_def_call.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f2_decl.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f2_decl.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f2_decl.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f2_decl.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f3_fine_print.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f3_fine_print.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f3_fine_print.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f3_fine_print.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f4_sum_to.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f4_sum_to.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f4_sum_to.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f4_sum_to.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f5_testing.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f5_testing.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f5_testing.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f5_testing.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f5_testing.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f5_testing.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f5_testing.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f5_testing.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f5_testing.dir/ex5functions/f5_testing.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f6_function.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f6_function.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f6_function.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/f6_function.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/fd1_rps.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/fd1_rps.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/fd1_rps.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/fd1_rps.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/fd1_rps.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/fd1_rps.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/fd1_rps.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/fd1_rps.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/fd1_rps.dir/ex7func_decomp/fd1_rps.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i1_if.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i1_if.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i1_if.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i1_if.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i2_if_else.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i2_if_else.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i2_if_else.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i2_if_else.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i3_male_female.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i3_male_female.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i3_male_female.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i3_male_female.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i4_location.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i4_location.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i4_location.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/i4_location.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw1_nested.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw1_nested.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw1_nested.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw1_nested.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw2_break.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw2_break.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw2_break.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw2_break.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw3_is_prime.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw3_is_prime.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw3_is_prime.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw3_is_prime.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw3_max_digit.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw3_max_digit.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw3_max_digit.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/iw3_max_digit.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/r1_random.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/r1_random.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/r1_random.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/r1_random.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w1_while.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w1_while.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w1_while.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w1_while.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w2_sum_to.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w2_sum_to.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w2_sum_to.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w2_sum_to.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w2_sum_to.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w2_sum_to.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w2_sum_to.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w2_sum_to.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w2_sum_to.dir/ex3while/w2_sum_to.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w3_gcd.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w3_gcd.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w3_gcd.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/CMakeFiles/w3_gcd.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/lectweek1o2.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek1o2/cmake-build-debug/lectweek1o2.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a1_arrays.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a1_arrays.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a1_arrays.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a1_arrays.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a2_assign_equal.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a2_assign_equal.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a2_assign_equal.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a2_assign_equal.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a3_io.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a3_io.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a3_io.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a3_io.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a4_fib.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a4_fib.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a4_fib.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/a4_fib.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af1_func.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af1_func.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af1_func.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af1_func.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af2_func_var.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af2_func_var.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af2_func_var.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af2_func_var.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af2_func_var_NO99.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af2_func_var_NO99.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af2_func_var_NO99.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af2_func_var_NO99.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af3_fisher_yates.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af3_fisher_yates.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af3_fisher_yates.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/af3_fisher_yates.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/f1_for.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/f1_for.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/f1_for.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/f1_for.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/m1_math.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/m1_math.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/m1_math.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/m1_math.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/m2_distance.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/m2_distance.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/m2_distance.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/m2_distance.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt1_matrix.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt1_matrix.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt1_matrix.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt1_matrix.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt2_io.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt2_io.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt2_io.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt2_io.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt3_matrix_func.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt3_matrix_func.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt3_matrix_func.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt3_matrix_func.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt3_matrix_func_NO99.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt3_matrix_func_NO99.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt3_matrix_func_NO99.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt3_matrix_func_NO99.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt4_battleship.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt4_battleship.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt4_battleship.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/mt4_battleship.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/t1_scope.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/t1_scope.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/t1_scope.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/t1_scope.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/t2_local_var.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/t2_local_var.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/t2_local_var.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/t2_local_var.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/t3_global_var.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/t3_global_var.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/t3_global_var.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/CMakeFiles/t3_global_var.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/lectweek3.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/lectweek3/cmake-build-debug/lectweek3.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/program.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/program.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/program.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/program.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/program.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/program.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/program.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/program.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/program.dir/program.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/program.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/snippets.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/snippets.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/snippets.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/snippets.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/snippets.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/snippets.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/snippets.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/snippets.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/snippets.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/CMakeFiles/snippets.dir/snippets.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/program" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/snippets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/student_live.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/cmake-build-debug/student_live.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/f2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/program.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/w1o2/lect1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../leu481/lect/student_live/snippets.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../leu481/lect/student_live/w1o2/lect2.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1VAEVULnBQV5FoXI7KrKjo9bvV9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/1w/dat044/xer/OUT/xerweek6" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ex2asteroids" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AsteroidsGUI">
+    <configuration name="AsteroidsGUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex2asteroids.AsteroidsGUI" />
+      <module name="xerweek6" />
+      <option name="VM_PARAMETERS" value="--module-path $USER_HOME$/devel/java/javafx-sdk-13.0.1/lib --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex2asteroids.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCarVan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex1inheritance.TestCarVan" />
+      <module name="xerweek6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex1inheritance.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AsteroidsGUI" />
+      <item itemvalue="Application.TestCarVan" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AsteroidsGUI" />
+        <item itemvalue="Application.TestCarVan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44cc4077-d2e3-4059-8a88-4c578c51a0be" name="Default Changelist" comment="" />
+      <created>1576687522225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576687522225</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2241" y="281" width="426" height="480" key="FileChooserDialogImpl" timestamp="1646033015700">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state x="482" y="329" key="FileChooserDialogImpl/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1639988052060" />
+    <state x="2241" y="281" width="426" height="480" key="FileChooserDialogImpl/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1646033015700" />
+    <state width="890" height="285" key="GridCell.Tab.0.bottom" timestamp="1646044863745">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="890" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1646044863745" />
+    <state width="890" height="285" key="GridCell.Tab.0.center" timestamp="1646044863745">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="890" height="285" key="GridCell.Tab.0.center/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1646044863745" />
+    <state width="890" height="285" key="GridCell.Tab.0.left" timestamp="1646044863745">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="890" height="285" key="GridCell.Tab.0.left/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1646044863745" />
+    <state width="890" height="285" key="GridCell.Tab.0.right" timestamp="1646044863745">
+      <screen x="1920" y="0" width="1280" height="1024" />
+    </state>
+    <state width="890" height="285" key="GridCell.Tab.0.right/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1646044863745" />
+  </component>
+</project>

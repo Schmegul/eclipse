@@ -1,5 +1,6 @@
 package xerweek5.src.ex2usemoreclasses;
 
+import java.util.List;
 import java.util.Objects;
 
 /*
@@ -27,9 +28,16 @@ public class Triangle {
     }
 
     public double area() {
-        double k = 0.5*(x.distance(y)+y.distance(z)+z.distance(x));
-        return k;
-        //Area={\sqrt {s\left(s-a\right)\left(s-b\right)\left(s-c\right)
+        double a = x.distance(y);
+        double b = y.distance(z);
+        double c = z.distance(x);
+        double k = 0.5 * (a + b + c);
+        return Math.sqrt(k * (k - a) * (k - b) * (k - c));
     }
+//
+//    public boolean containsr(Triangle r) {
+//        Point i = r.x;
+//        return true;
+//    }
 }
 

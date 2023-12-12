@@ -31,8 +31,8 @@ public class Ex2TestPointTriangle {
 
         Triangle t = new Triangle(new Point(0, 0, 0), new Point(0, 1, 0), new Point(1, 0, 0));
         out.println(t.area());
-//        out.println(abs(t.area() - 0.5) < 0.000001);  // Area should be 0.5
-/*
+        out.println(abs(t.area() - 0.5) < 0.000001);  // Area should be 0.5
+
         // Test data
         Point p1 = new Point(1, 1, 1);
         Point p2 = new Point(2, 2, 2);
@@ -46,7 +46,6 @@ public class Ex2TestPointTriangle {
         // Try to find triangle in list
         out.println(trs.contains(new Triangle(p1, p2, p3)));
         out.println(!trs.contains(new Triangle(p3, p1, p2)));
-*/
     }
 
 }
