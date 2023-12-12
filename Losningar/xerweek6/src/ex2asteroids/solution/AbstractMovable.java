@@ -1,4 +1,4 @@
-package ex2asteroids.solution;
+package Losningar.xerweek6.src.ex2asteroids.solution;
 
 public abstract class AbstractMovable extends AbstractPositionable {
 

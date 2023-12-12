@@ -1,4 +1,4 @@
-package ex2asteroids.solution;
+package Losningar.xerweek6.src.ex2asteroids.solution;
 
 
 import javafx.animation.AnimationTimer;
@@ -11,10 +11,10 @@ import javafx.scene.layout.Pane;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
-import static ex2asteroids.solution.Asteroids.GAME_HEIGHT;
-import static ex2asteroids.solution.Asteroids.GAME_WIDTH;
-import static ex2asteroids.solution.Spaceship.MAX_DX;
-import static ex2asteroids.solution.Spaceship.MAX_DY;
+import static Losningar.xerweek6.src.ex2asteroids.solution.Asteroids.GAME_HEIGHT;
+import static Losningar.xerweek6.src.ex2asteroids.solution.Asteroids.GAME_WIDTH;
+import static Losningar.xerweek6.src.ex2asteroids.solution.Spaceship.MAX_DX;
+import static Losningar.xerweek6.src.ex2asteroids.solution.Spaceship.MAX_DY;
 import static javafx.scene.paint.Color.*;
 
 
