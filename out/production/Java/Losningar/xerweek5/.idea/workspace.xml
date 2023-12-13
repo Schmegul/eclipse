@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="102278f4-5d6e-483b-8ec1-a3927b58eb04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../xerweek4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xerweek4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dat043/ass/calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../dat043/ass/calculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dat043/exam/e220312/exam/exam220312.lyx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../dat043/exam/e220312/exam/exam220312.lyx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../dat043/exam/e220312/src/solution/Exam220312.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../dat043/exam/e220312/src/solution/Exam220312.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1VAD6SdSeg1fEfixO385eSlVPpR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/1w/dat044/xer/OUT/xerweek5" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CLI">
+    <configuration name="CLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex4hangman.CLI" />
+      <module name="xerweek5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex4hangman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex1TestRational" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex1useaclass.Ex1TestRational" />
+      <module name="xerweek5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex1useaclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CLI" />
+        <item itemvalue="Application.Ex1TestRational" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="102278f4-5d6e-483b-8ec1-a3927b58eb04" name="Default Changelist" comment="" />
+      <created>1575384177229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575384177229</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="671" y="270" width="319" height="410" key="FileChooserDialogImpl" timestamp="1645425301041">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="530" y="324" width="426" height="480" key="FileChooserDialogImpl/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1638886056200" />
+    <state x="671" y="270" width="319" height="410" key="FileChooserDialogImpl/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1645425301041" />
+    <state width="745" height="667" key="GridCell.Tab.0.bottom" timestamp="1645439527309">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="745" height="667" key="GridCell.Tab.0.bottom/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1645439527309" />
+    <state width="745" height="667" key="GridCell.Tab.0.bottom/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1645435128925" />
+    <state width="745" height="667" key="GridCell.Tab.0.center" timestamp="1645439527309">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="745" height="667" key="GridCell.Tab.0.center/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1645439527309" />
+    <state width="745" height="667" key="GridCell.Tab.0.center/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1645435128925" />
+    <state width="745" height="667" key="GridCell.Tab.0.left" timestamp="1645439527308">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="745" height="667" key="GridCell.Tab.0.left/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1645439527308" />
+    <state width="745" height="667" key="GridCell.Tab.0.left/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1645435128925" />
+    <state width="745" height="667" key="GridCell.Tab.0.right" timestamp="1645439527309">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="745" height="667" key="GridCell.Tab.0.right/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1645439527309" />
+    <state width="745" height="667" key="GridCell.Tab.0.right/0.0.1920.1200/1920.0.1280.1024@1920.0.1280.1024" timestamp="1645435128925" />
+    <state x="509" y="209" key="SettingsEditor" timestamp="1638863879340">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="509" y="209" key="SettingsEditor/0.0.1920.1200/1920.0.1280.1024@0.0.1920.1200" timestamp="1638863879340" />
+  </component>
+</project>
